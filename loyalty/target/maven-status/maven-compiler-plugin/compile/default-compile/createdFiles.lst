@@ -1,0 +1,8 @@
+ru\bmstu\rsoi\loyalty\dto\LoyaltyInfoRequest.class
+ru\bmstu\rsoi\loyalty\repository\LoyaltyRepository.class
+ru\bmstu\rsoi\loyalty\controller\HealthController.class
+ru\bmstu\rsoi\loyalty\dto\LoyaltyInfoResponse.class
+ru\bmstu\rsoi\loyalty\entity\Loyalty.class
+ru\bmstu\rsoi\loyalty\service\LoyaltyService.class
+ru\bmstu\rsoi\loyalty\LoyaltyApplication.class
+ru\bmstu\rsoi\loyalty\controller\LoyaltyController.class

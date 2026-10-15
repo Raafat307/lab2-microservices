@@ -1,0 +1,17 @@
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\service\GatewayService.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\GatewayApplication.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\client\LoyaltyClient.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\PaymentResponse.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\HotelResponse.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\client\ReservationClient.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\CreateReservationResponse.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\InternalReservationRequest.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\CreateReservationRequest.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\LoyaltyInfoResponse.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\InternalReservationResponse.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\LoyaltyRequest.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\FullReservationResponse.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\client\PaymentClient.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\dto\PaymentRequest.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\controller\GatewayController.java
+C:\Users\ProBoos4520s\Desktop\Projects\lab2-microservices\gateway\src\main\java\ru\bmstu\rsoi\gateway\controller\HealthController.java

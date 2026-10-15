@@ -1,0 +1,8 @@
+ru\bmstu\rsoi\payment\controller\HealthController.class
+ru\bmstu\rsoi\payment\controller\PaymentController.class
+ru\bmstu\rsoi\payment\dto\PaymentRequest.class
+ru\bmstu\rsoi\payment\repository\PaymentRepository.class
+ru\bmstu\rsoi\payment\PaymentApplication.class
+ru\bmstu\rsoi\payment\service\PaymentService.class
+ru\bmstu\rsoi\payment\entity\Payment.class
+ru\bmstu\rsoi\payment\dto\PaymentResponse.class

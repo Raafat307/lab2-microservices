@@ -1,0 +1,52 @@
+{
+	"id": "d50d0f81-5e2e-4d79-88af-fad7f073d5ba",
+	"name": "RSOI Lab2 Local",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "loyaltyUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "paymentUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "reservationUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "hotelUid",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "reservationUid",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-10-16T16:22:42.446Z",
+	"_postman_exported_using": "Postman/12.32.2"
+}

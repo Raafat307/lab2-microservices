@@ -24,7 +24,6 @@ jobs:
       - name: Build with Maven
         run: mvn clean package -DskipTests
 
-
       - name: Start PostgreSQL
         run: docker compose up -d postgres
 
@@ -39,7 +38,6 @@ jobs:
             sleep 2
           done
 
-
       - name: Run unit tests
         env:
           DB_HOST: localhost
@@ -48,7 +46,6 @@ jobs:
           DB_PASSWORD: test
         run: mvn test
 
-   
       - name: Start all services
         run: docker compose up -d
 
@@ -65,12 +62,13 @@ jobs:
             done
           done
 
-      - name: Test health endpoints
+      
+      - name: Install Newman
+        run: npm install -g newman
+
+      - name: Run Newman (Postman Integration Tests)
         run: |
-          curl -f http://localhost:8050/manage/health
-          curl -f http://localhost:8060/manage/health
-          curl -f http://localhost:8070/manage/health
-          curl -f http://localhost:8080/manage/health
+          newman run postman/collection.json -e postman/environment.json --reporters cli
 
       - name: Show logs on failure
         if: failure()

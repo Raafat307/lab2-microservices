@@ -23,7 +23,3 @@ The system consists of the following components:
 - **Docker & Docker Compose**
 - **GitHub Actions** (CI/CD)
 - **Postman & Newman** (Integration Testing)
-
-
-```bash
-docker compose up -d --build

@@ -8,7 +8,7 @@ The system consists of the following components:
 
 | Service | Port | Description | Database |
 | :-----------------------| :----- | :---------------------------------------------------------- | :--------------|
-| **Gateway Service**     | `8080` | Single entry point. Orchestrates requests between services. | None-----------|
+| **Gateway Service**     | `8080` | Single entry point. Orchestrates requests between services. | None|
 | **Loyalty Service**     | `8050` | Manages user loyalty statuses and discounts.                | `balances`     |
 | **Payment Service**     | `8060` | Handles payment creation and cancellation.                  | `payments`     |
 | **Reservation Service** | `8070` | Manages hotels and reservations.                            | `reservations` |
